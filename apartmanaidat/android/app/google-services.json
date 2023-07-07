@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "758035482626",
+    "project_id": "apartman-aidati",
+    "storage_bucket": "apartman-aidati.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:758035482626:android:3d61dd45958ff60dd7ff1b",
+        "android_client_info": {
+          "package_name": "com.example.apartmanaidat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "758035482626-tog6voicpnti0gdqqv56l20tg7eogfgt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdEnJoxlHtS2iCARdgzW_RgNIO84KmcgE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "758035482626-tog6voicpnti0gdqqv56l20tg7eogfgt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
